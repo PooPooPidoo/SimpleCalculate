@@ -57,10 +57,11 @@ def parse(str):
 def checknum(*args):
     for var in args:
         if type(var) is float:
-            return True
+            pass
         else:
             print("at least one value is not a number")
             return False
+    return True
 
 
 def main():
