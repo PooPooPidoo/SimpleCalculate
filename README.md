@@ -7,3 +7,4 @@ How to launch:
 1. Download archive and unzip it
 2. Execute python.exe
 3. Type "import calc.py" and hit enter
+4. Try it
