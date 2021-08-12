@@ -25,7 +25,6 @@ def parse(str):
 
     for symbol in str:
         if symbol == ' ':
-            symbol = ''
             continue
         if symbol in '123456789.0':
             flag = True
